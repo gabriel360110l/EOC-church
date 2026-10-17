@@ -10,12 +10,27 @@ Richtlijnen voor de app (Android + iOS).
 
 ## Inhoud van deze map
 
+### Design & Structuur
 - `design_principles.md` — Hoe de app eruit moet zien en aanvoelen
 - `screens_and_navigation.md` — Belangrijkste schermen en navigatie
 - `ui_resources.md` — GitHub- en designbronnen (voor beide platforms)
-- `store_preparation.md` — Alles voor Google Play en App Store (accounts, privacy, icons, etc.)
+
+### Bijbel & Content
 - `bible_commentary_linking.md` — Hoe je Bijbelverzen koppelt aan commentaren van kerkvaders
 - `bible_reading_plans.md` — Bijbelleesplannen (beginners + OT/NT-gekoppeld + klassieke plannen)
+- `translations.md` — Vertalingen en meerdere Bijbelvertalingen
+
+### Functies
+- `offline_strategy.md` — Hoe de app offline werkt
+- `search.md` — Zoekfunctie
+- `favorites_and_bookmarks.md` — Favorieten en markeringen
+- `progress_and_statistics.md` — Voortgang en statistieken
+- `notifications.md` — Herinneringen
+- `accessibility.md` — Toegankelijkheid
+- `error_handling.md` — Foutafhandeling en offline-meldingen
+
+### Store
+- `store_preparation.md` — Alles voor Google Play en App Store
 
 ## Gerelateerd
 
