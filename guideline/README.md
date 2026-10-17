@@ -15,6 +15,11 @@ Richtlijnen voor de app (Android + iOS).
 - `screens_and_navigation.md` — Belangrijkste schermen en navigatie
 - `ui_resources.md` — GitHub- en designbronnen (voor beide platforms)
 
+### Start & Account
+- `onboarding_after_signup.md` — Korte uitleg na het aanmelden
+- `account_and_data.md` — Account, data en backup
+- `settings.md` — Alle belangrijke instellingen
+
 ### Bijbel & Content
 - `bible_commentary_linking.md` — Hoe je Bijbelverzen koppelt aan commentaren van kerkvaders
 - `bible_reading_plans.md` — Bijbelleesplannen (beginners + OT/NT-gekoppeld + klassieke plannen)
@@ -28,6 +33,7 @@ Richtlijnen voor de app (Android + iOS).
 - `notifications.md` — Herinneringen
 - `accessibility.md` — Toegankelijkheid
 - `error_handling.md` — Foutafhandeling en offline-meldingen
+- `feedback_and_donation.md` — Fouten melden en donatie
 
 ### Store
 - `store_preparation.md` — Alles voor Google Play en App Store
