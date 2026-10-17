@@ -55,6 +55,12 @@ guideline/               ← App design, UX en store-voorbereiding (Android + iO
   screens_and_navigation.md
   ui_resources.md
   store_preparation.md
+  bible_commentary_linking.md
+  bible_reading_plans.md
+
+bible_quizzes/           ← Quiz-systeem na hoofdstukken en leesdagen
+  README.md
+  question_examples.md
 ```
 
 ## Important notes
