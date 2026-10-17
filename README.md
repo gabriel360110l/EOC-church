@@ -28,18 +28,23 @@ shared/                  ← Content shared by all three traditions
   bibles.md
   councils_and_canons.md
   church_fathers.md
+  byzantine_icons.md
+  creeds.md
 
 eastern_orthodox/
   prayers_and_horologion.md
   calendar_and_saints.md
+  patriarchs.md
 
 oriental_orthodox/
   agpeya_and_prayers.md
   calendar_and_synaxarium.md
+  patriarchs.md
 
 catholic/
   liturgy_of_the_hours.md
   calendar.md
+  popes.md
 
 calendars/               ← Quick daily API endpoints
   daily_endpoints.md
