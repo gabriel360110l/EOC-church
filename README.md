@@ -48,6 +48,13 @@ catholic/
 
 calendars/               ← Quick daily API endpoints
   daily_endpoints.md
+
+guideline/               ← App design, UX en store-voorbereiding (Android + iOS)
+  README.md
+  design_principles.md
+  screens_and_navigation.md
+  ui_resources.md
+  store_preparation.md
 ```
 
 ## Important notes
