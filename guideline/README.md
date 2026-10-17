@@ -17,4 +17,8 @@ Richtlijnen voor de app (Android + iOS).
 - `bible_commentary_linking.md` — Hoe je Bijbelverzen koppelt aan commentaren van kerkvaders
 - `bible_reading_plans.md` — Bijbelleesplannen (beginners + OT/NT-gekoppeld + klassieke plannen)
 
+## Gerelateerd
+
+- Zie de map `bible_quizzes/` voor het quiz-systeem (na hoofdstukken en leesdagen).
+
 Deze map bevat geen code en geen data uit eerdere apps. Alleen richtlijnen en links.
