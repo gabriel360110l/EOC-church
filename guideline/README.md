@@ -15,5 +15,6 @@ Richtlijnen voor de app (Android + iOS).
 - `ui_resources.md` — GitHub- en designbronnen (voor beide platforms)
 - `store_preparation.md` — Alles voor Google Play en App Store (accounts, privacy, icons, etc.)
 - `bible_commentary_linking.md` — Hoe je Bijbelverzen koppelt aan commentaren van kerkvaders
+- `bible_reading_plans.md` — Bijbelleesplannen (beginners + OT/NT-gekoppeld + klassieke plannen)
 
 Deze map bevat geen code en geen data uit eerdere apps. Alleen richtlijnen en links.
