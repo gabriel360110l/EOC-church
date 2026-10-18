@@ -30,6 +30,7 @@ shared/                  ← Content shared by all three traditions
   church_fathers.md
   byzantine_icons.md
   creeds.md
+  cross_references.md
 
 eastern_orthodox/
   prayers_and_horologion.md
