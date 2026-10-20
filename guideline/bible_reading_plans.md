@@ -44,7 +44,20 @@ Dit zijn de plannen die jij bedoelde: waar het Nieuwe Testament in lijn loopt me
 - Voorbeeld: Scripture Journey (200 messiaanse profetieën)  
   https://github.com/systemslibrarian/scripture-journey
 
-## 3. Klassieke en uitgebreide plannen
+## 3. Concilie-leesplannen
+
+Speciale plannen die Bijbelpassages verbinden met de grote concilies.
+
+Per concilie (bijv. Nicea 325, Constantinopel 381, Efeze 431, Chalcedon 451, en verder tot 1054 afhankelijk van traditie):
+- Relevante Bijbelpassages
+- Korte historische reden waarom het concilie bijeenkwam
+- Belangrijkste canons (samenvatting)
+- Uitkomst voor de Kerk
+- Optionele quiz
+
+Deze plannen kunnen per traditie gefilterd worden omdat de lijst van erkende concilies verschilt (Eastern Orthodox / Catholic / Oriental Orthodox).
+
+## 4. Klassieke en uitgebreide plannen
 
 ### 1-jaar plannen
 - Hele Bijbel in 365 dagen (verschillende indelingen: canoniek, chronologisch, of OT+NT+Psalmen elke dag).
@@ -61,7 +74,7 @@ Dit zijn de plannen die jij bedoelde: waar het Nieuwe Testament in lijn loopt me
 - 10 hoofdstukken per dag uit verschillende categorieën.
 - Niet voor beginners.
 
-## 4. Open bronnen op GitHub
+## 5. Open bronnen op GitHub
 
 - **JSON-leesplannen:** https://github.com/khornberg/readingplans  
   Bevat o.a. chronologische plannen en ESV-varianten.
@@ -74,11 +87,12 @@ Dit zijn de plannen die jij bedoelde: waar het Nieuwe Testament in lijn loopt me
 - **AI Bible Plan Generator:** https://github.com/benkaiser/ai-bible-plan-generator  
   Om zelf plannen te genereren.
 
-## 5. Tips voor in de app
+## 6. Tips voor in de app
 
 - Bied meerdere plannen aan en label ze duidelijk:
   - “Voor beginners”
   - “OT + NT gekoppeld”
+  - “Concilies”
   - “1 jaar”
   - “Chronologisch”
 - Toon voortgang (bijv. “Dag 12 van 90”).
@@ -86,12 +100,14 @@ Dit zijn de plannen die jij bedoelde: waar het Nieuwe Testament in lijn loopt me
 - Optioneel: koppel ook kerkvader-commentaren aan de gelezen verzen.
 - Laat gebruikers een plan pauzeren of opnieuw starten.
 - Voor beginners: begin altijd met een kort plan of alleen de Evangeliën.
+- Quizzes aan het einde van een hoofdstuk of dag (moet goed beantwoorden om verder te gaan).
 
 ## Aanbevolen volgorde voor nieuwe gebruikers
 
 1. Kort plan of één Evangelie (Marcus of Johannes)
 2. Daarna een “kern van de Bijbel” of NT in 90 dagen
 3. Daarna een redemptive-historical of chronologisch plan
-4. Tot slot een volledig 1- of 2-jaar plan
+4. Eventueel een concilie-plan
+5. Tot slot een volledig 1- of 2-jaar plan
 
 Zo bouwen mensen stap voor stap op en raken ze niet overweldigd.
